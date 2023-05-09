@@ -1,0 +1,14 @@
+
+| Name | Location | Description | Ratings | Average Price Point |
+| --- | --- | --- | --- | --- |
+| Ikarus | Wilhelm-Spazier-Straße 7A | Ikarus is a fine-dining restaurant located within Hangar-7 at Salzburg Airport. The menu features monthly rotating guest chefs from around the world, creating a unique culinary experience every time. | 4.8/5 | €€€€ |
+| Afro Cafe | Steingasse 8 | Afro Cafe is a cozy cafe that serves up coffee and homemade African-inspired pastries. The atmosphere is relaxed and the decor features African-inspired art and textiles. | 4.8/5 | € |
+| Triangel | Linzergasse 14 | Triangel is a charming cafe located in the heart of Salzburg's old town. The menu includes coffee, tea, and homemade pastries, and the decor features an eclectic mix of vintage and modern design. | 4.7/5 | € |
+| Pfefferschiff | Rudolfskai 14 | Pfefferschiff is a modern Austrian restaurant located in a historic building on the banks of the Salzach river. The menu features innovative dishes made with locally-sourced ingredients, and the atmosphere is elegant and refined. | 4.8/5 | €€€ |
+| Barenwirt | Riedenburger Straße 2 | Barenwirt is a traditional Austrian restaurant located just outside the city center. The menu includes classic Austrian dishes like Wiener Schnitzel and Tafelspitz, and the atmosphere is cozy and rustic. | 4.7/5 | €€ |
+| Kaffee Alchemie | Kaigasse 9 | Kaffee Alchemie is a specialty coffee shop that serves up single-origin coffee from around the world. The atmosphere is minimalist and industrial, with a focus on the art and science of coffee making. | 4.7/5 | € |
+| Restaurant Esszimmer | Mönchsberg 24 | Restaurant Esszimmer is a Michelin-starred restaurant located on the Mönchsberg mountain. The menu features innovative dishes made with locally-sourced ingredients, and the restaurant has stunning views of Salzburg's old town. | 4.8/5 | €€€€ |
+| Die Weisse | Rupertgasse 10 | Die Weisse is a traditional Austrian brewery and restaurant located in the heart of Salzburg. The menu includes classic Austrian dishes like Schnitzel and Bratwurst, and the brewery has a variety of beers on tap. | 4.6/5 | €€ |
+| Cafe Fingerlos | Griesgasse 23 | Cafe Fingerlos is a classic Austrian coffee house that dates back to 1901. The menu includes coffee, tea, and homemade pastries, and the decor is traditional Viennese coffee house style. | 4.7/5 | € |
+| Spicy Spices | Getreidegasse 39 | Spicy Spices is a casual Indian restaurant located in the heart of Salzburg's old town. The menu includes a variety of vegetarian and non-vegetarian options, and the atmosphere is colorful and lively. | 4.7/5 | €€ |
+| Cafe Tomaselli | Alter Markt 9 | Cafe Tomaselli is a historic coffee house that has been serving up coffee, tea, and pastries since 1703. The atmosphere is elegant and refined, and the decor features classic Viennese coffee house style. | 
